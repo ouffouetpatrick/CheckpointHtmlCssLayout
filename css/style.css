@@ -1,0 +1,67 @@
+
+h1{
+    font-family: Work Sans,Arial,sans-serif;
+}
+
+.logo-nav{
+    width: 268px;
+    height: 33px;
+}
+
+.img{
+    margin-top: 6%;
+    text-align: center;
+}
+
+.texte-intro{
+    text-align: center;
+    padding: 2%;
+}
+
+.texte-intro h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+
+.col-6{
+    text-align: left;
+    line-height: 1.75;
+    font-family: Work Sans,Arial,sans-serif;
+    padding: 3%;
+}
+
+.col-4{
+    /*border-style: groove;*/
+    border-radius: 10px;
+    color: white;
+    padding: 1%;
+}
+
+.career{
+    width: 100%;
+    height: 750px;
+    margin-top: 2%;
+    margin: 0%;
+    background-size: cover;
+}
+
+.bloc{
+    border: 1px solid ;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    margin-top:1%;
+    max-width: 1100px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.sous-bloc{
+    color: rgb(14, 6, 6);
+    max-width: 440px;
+    padding: 3em 2.5em 3.125em 3.125em;
+    
+    background: #fff;
+    margin: 3.75em 0;
+    font-family: Work Sans,Arial,sans-serif;
+}
